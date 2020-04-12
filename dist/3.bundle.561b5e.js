@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{7:function(o,n,c){"use strict";function e(){console.log("hello"),fetch("/user").then(o=>o.json()).then(o=>console.log(o)).catch(o=>console.log(o)),console.log("DEV","production")}c.r(n),c.d(n,"default",(function(){return e}))}}]);
+//# sourceMappingURL=3.bundle.561b5e.js.map
